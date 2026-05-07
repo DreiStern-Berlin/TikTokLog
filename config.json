@@ -6,6 +6,7 @@
     { "nick": "Elly",  "name": "ellykant" },
     { "nick": "Seminem",  "name": "semay2309"},
     { "nick": "Jani",  "name": "jani_fee" },
+    { "nick": "Taha",  "name": "taha.nobody666" },
     { "nick": "Marco",  "name": "hellfirevr4"},
     { "nick": "Oekonerd",  "name": "oekonerd" },
     { "nick": "Armin",  "name": "armin.meiwes16"}
@@ -15,3 +16,4 @@
   "MaxLogFilesPerHost": 10
 }
 
+  
