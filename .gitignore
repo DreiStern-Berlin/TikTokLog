@@ -1,0 +1,15 @@
+@"
+# PowerShell Module build artifacts
+*.psd1
+*.psm1
+*.ps1xml
+*.cache
+*.log
+
+# Node modules (falls du npm nutzt)
+node_modules/
+
+# OneDrive
+*.tmp
+~*
+"@ | Out-File -Encoding utf8 .gitignore

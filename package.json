@@ -1,0 +1,16 @@
+{
+  "name": "tiktoklog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "chat-tail.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "tiktok-live-connector": "^2.1.1-beta1"
+  }
+}

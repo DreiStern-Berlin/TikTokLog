@@ -1,0 +1,17 @@
+{
+  "LogDirectory": "A:\\logs",
+ 
+  "Hosts": [
+    { "nick": "Sonne", "name": "sonne3136" },
+    { "nick": "Elly",  "name": "ellykant" },
+    { "nick": "Seminem",  "name": "semay2309"},
+    { "nick": "Jani",  "name": "jani_fee" },
+    { "nick": "Marco",  "name": "hellfirevr4"},
+    { "nick": "Oekonerd",  "name": "oekonerd" },
+    { "nick": "Armin",  "name": "armin.meiwes16"}
+  ],
+  "NodePath": "C:\\Program Files\\nodejs\\node.exe",
+  "ServiceUser": "holge",
+  "MaxLogFilesPerHost": 10
+}
+
